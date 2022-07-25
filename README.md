@@ -10,6 +10,6 @@
 1. ` npm install` para instalas todas as dependencias
 
 ## Atividade resolvida
-## tudo mesmo
+
 
 - [Código-fonte](./)
